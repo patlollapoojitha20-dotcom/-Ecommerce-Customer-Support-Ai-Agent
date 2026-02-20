@@ -1,0 +1,7 @@
+product: over-Ear Headphones
+category: Audio
+price inofrmation: 3799
+currency: INR
+Description: Over-Ear Headphones with noice isolation and padded earcups
+specifications: type = "Over-Ear", connection = "3.5mm" , cable_length = "1.5 m" , color = "blue"
+stock: in stock
