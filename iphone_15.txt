@@ -1,7 +1,0 @@
-Product: iPhone 15
-Display: 6.1-inch Super Retina XDR
-Processor: A16 Bionic
-Camera: 48MP dual camera
-Storage Options: 128GB, 256GB, 512GB
-Warranty: 1 year manufacturer warranty
-Return Window: 10 days if unused and original packaging
