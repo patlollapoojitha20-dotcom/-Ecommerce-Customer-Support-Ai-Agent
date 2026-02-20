@@ -269,9 +269,7 @@ We separate business-critical actions (orders, payments) into deterministic tool
 *********************************************************************************************************
 # 📝 License #
 ```
-This project is released for educational and demonstration purposes.
-
-You may use and modify it for learning or portfolio use.  
+This project is released for educational and demonstration purposes.  
 Please review the licenses of all external libraries before using in production.
 ```
 
