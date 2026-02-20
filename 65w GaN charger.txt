@@ -1,7 +1,0 @@
-product: 65W GaN Charger
-category: Accessories
-price inofrmation: 1999
-currency: INR
-Description: compact 65W USB-C GaN Charger suitable for phones, tablets, and laptops
-specifications: max-output = "65 watt" , ports: "2", port_typs= "USB-c  USB-A" , color = "white", 
-stock: in stock
